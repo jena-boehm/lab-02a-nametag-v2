@@ -1,0 +1,45 @@
+body {
+    background: #97EFE9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Raleway', sans-serif;
+}
+
+main {
+    background: #6A0F49;
+    border-radius: 5px;
+    width: 375px;
+    text-align: center;
+}
+
+.top {
+    height: 120px;
+    color: #A7C4C2;
+    border-radius: 5px;
+}
+
+.middle {
+    color: #6A0F49;
+    background: white;
+    height: 115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.bottom {
+    height: 20px;
+}
+
+.hello {
+    font-size: 4.5rem;
+    line-height: 1.1;
+}
+
+.my-name-is {
+    font-size: 1.5rem;
+}
